@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pygal", "Pygal\Pygal.pyproj", "{6A8150C4-CE18-405A-8C42-8A172C9FE7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8150C4-CE18-405A-8C42-8A172C9FE7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8150C4-CE18-405A-8C42-8A172C9FE7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F22708B-5BCA-4436-90B4-5785653DDFE4}
+	EndGlobalSection
+EndGlobal
