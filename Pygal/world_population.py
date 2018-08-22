@@ -27,7 +27,7 @@ for pop_dict in pop_data:
                 cc_population3[code]=population
 
 
-wm_style = RotateStyle('#116699', base_style=LightColorizedStyle)
+wm_style = RotateStyle('#336699', base_style=LightColorizedStyle)
 wm=World(style=wm_style)
 
 wm.title="World Population in 2010"
