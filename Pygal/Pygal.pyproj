@@ -28,6 +28,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="die_visual.py" />
+    <Compile Include="python_repos.py" />
     <Compile Include="world_population.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
